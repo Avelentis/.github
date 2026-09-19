@@ -5,9 +5,9 @@
   <img src="https://raw.githubusercontent.com/Avelentis/.github/main/profile/logo.svg" alt="Avelentis" height="64">
 </picture>
 
-### Websites e plataformas web para paróquias, associações e empresas
+### Websites e plataformas web para empresas, organizações e paróquias
 
-Do levantamento das necessidades à publicação e manutenção.
+Tratamos do projeto, da publicação e da manutenção.
 
 [![Website](https://img.shields.io/badge/🌐_avelentis.me-0e2035?style=for-the-badge)](https://avelentis.me)
 [![Email](https://img.shields.io/badge/✉️_geral@avelentis.me-f0a030?style=for-the-badge)](mailto:geral@avelentis.me)
@@ -31,16 +31,16 @@ Do levantamento das necessidades à publicação e manutenção.
 
 ## 🚀 Como trabalhamos
 
-1. **💬 Perceber** — começamos por entender o que a organização precisa.
-2. **✏️ Construir** — durante o desenvolvimento, o cliente vê o trabalho e indica o que quer alterar.
-3. **🌍 Publicar** — colocamos o projeto online e tratamos do alojamento.
-4. **🤝 Acompanhar** — continuamos disponíveis para corrigir e ajustar, diretamente por email.
+1. **💬 Perceber:** começamos por entender o que a organização precisa.
+2. **✏️ Construir:** durante o desenvolvimento, o cliente vê o trabalho e indica o que quer alterar.
+3. **🌍 Publicar:** colocamos o projeto online e tratamos do alojamento.
+4. **🤝 Acompanhar:** continuamos disponíveis para corrigir e ajustar, diretamente por email.
 
 <br>
 
 ## 📌 Exemplo de projeto
 
-**[Tabuaço Sudeste](https://tbcsudeste.pt)** &nbsp;·&nbsp; website da zona pastoral
+**[Tabuaço Sudeste](https://tbcsudeste.pt)**, website da zona pastoral
 
 Reúne os horários das missas e os avisos de cinco paróquias, com uma interface simples e pensada para quem tem pouca experiência com tecnologia. Tem uma área de administração, ligada a uma base de dados, onde a equipa gere os conteúdos sozinha.
 
@@ -50,10 +50,11 @@ Reúne os horários das missas e os avisos de cinco paróquias, com uma interfac
 
 Descreva-nos o que precisa. Respondemos por email com uma proposta e um orçamento.
 
-**[geral@avelentis.me](mailto:geral@avelentis.me)** &nbsp;·&nbsp; **[avelentis.me](https://avelentis.me)**
+Email: **[geral@avelentis.me](mailto:geral@avelentis.me)**  
+Website: **[avelentis.me](https://avelentis.me)**
 
 <br>
 
 <div align="center">
-  <sub>© Avelentis · Feito em Portugal 🇵🇹</sub>
+  <sub>© Avelentis. Feito em Portugal 🇵🇹</sub>
 </div>
